@@ -17,7 +17,7 @@
 ## Запуск
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/VitalyShrugged/ad-robot-chart-test.git
 cd ad-robot-chart-test
 npm install
 npm run dev
